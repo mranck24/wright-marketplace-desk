@@ -1,0 +1,1 @@
+{"name":"wright-marketplace-desk","version":"3.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"engines":{"node":">=20"},"license":"MIT"}
